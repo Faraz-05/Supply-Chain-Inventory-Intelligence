@@ -70,7 +70,6 @@ Advanced SQL Analytics
 Business Insights
         ↓
 Excel Analysis & Dashboard
-
 ...
 
 ## 📊 Key Analysis Areas
