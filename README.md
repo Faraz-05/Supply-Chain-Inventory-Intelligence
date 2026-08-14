@@ -71,6 +71,8 @@ Business Insights
         ↓
 Excel Analysis & Dashboard
 
+---
+
 ## 📊 Key Analysis Areas
 
 ### 💰 Product & Category Performance
