@@ -71,7 +71,7 @@ Business Insights
         ↓
 Excel Analysis & Dashboard
 
----
+...
 
 ## 📊 Key Analysis Areas
 
@@ -138,6 +138,8 @@ Subqueries
 Aggregate Functions
 Window Functions
 
+...
+
 ## 🔎 Key Insights
 
 ### Overall Performance
@@ -145,6 +147,8 @@ Window Functions
 ```text
 Total Revenue ≈ ₹33.43M
 Total Profit  ≈ ₹11.09M
+
+...
 
 ### Category Performance
 
@@ -157,11 +161,15 @@ Sports & Fitness → 13.32%
 Lowest Revenue Contribution
 Fashion → 11.15%
 
+...
+
 ### Warehouse Performance
 
 ```text
 Highest Revenue Warehouse → WH_2
 Lowest Revenue Warehouse  → WH_1
+
+...
 
 ### Forecasting
 
@@ -170,6 +178,8 @@ Among the analyzed 50 SKUs:
 ```text
 Over-forecasted  → 34 SKUs
 Under-forecasted → 16 SKUs
+
+...
 
 ## 📁 Project Structure
 
@@ -210,6 +220,8 @@ SUPPLY-CHAIN-INVENTORY-INTELLIGENCE/
 │   └── Three_months_MA.sql
 │
 └── README.md
+
+...
 
 ## 📈 Excel Analytics
 
